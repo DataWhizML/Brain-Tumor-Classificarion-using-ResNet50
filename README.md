@@ -1,5 +1,4 @@
 # Brain-Tumor-Classificarion-using-ResNet50
-# Brain Tumor Classification using Deep Learning
 
 This project aims to classify brain tumor images into two categories: with tumor and without tumor. It utilizes deep learning techniques and the ResNet50 model for accurate classification.
 
@@ -28,3 +27,16 @@ The dataset used in this project is sourced from the BRATS (Brain Tumor Segmenta
    ```bash
    git clone https://github.com/yourusername/brain-tumor-classification.git
    cd brain-tumor-classification
+
+## Usage
+
+1. Run the Jupyter notebook brain_tumor_classification.ipynb to train and evaluate the model.
+
+2. Optionally, fine-tune the model architecture or hyperparameters based on specific requirements.
+
+3. Evaluate the model's performance using the test dataset to assess its accuracy and generalization capabilities.
+
+## Results
+
+Utilizes ResNet50 with fine-tuning for classification.
+Achieved impressive results: accuracy 98.9%, recall 99%, precision 98%.
