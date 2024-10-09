@@ -42,3 +42,7 @@ The dataset used in this project is sourced from the BRATS (Brain Tumor Segmenta
 
 Utilizes ResNet50 with fine-tuning for classification.
 Achieved impressive results: accuracy 98.9%, recall 99%, precision 98%.
+![image](https://github.com/user-attachments/assets/d981917e-012a-483a-9c34-081071b8ac1c)
+
+![image](https://github.com/user-attachments/assets/281af3fe-002e-49c4-84e0-af0e196a1203)
+
