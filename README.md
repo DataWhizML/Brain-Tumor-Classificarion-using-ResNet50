@@ -1,6 +1,8 @@
 # Brain-Tumor-Classificarion-using-ResNet50
 
 This project aims to classify brain tumor images into two categories: with tumor and without tumor. It utilizes deep learning techniques and the ResNet50 model for accurate classification.
+![image](https://github.com/user-attachments/assets/96cb00b2-6b86-4e8c-a0c5-ac2b3e2d97f8)
+
 
 ## Table of Contents
 
